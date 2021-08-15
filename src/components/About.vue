@@ -13,7 +13,7 @@
                 img-src="static/img/brand/map.png"
                 img-alt="Image"
                 img-top
-                style="max-width: 25rem;"
+                style="max-width: 20rem;"
                 bg-variant="success"
                  text-variant="white"
                 class="mb-2")
@@ -28,7 +28,7 @@
             li 10:00 - 20:00 по буднях 
             li 09:00 - 20:00 у вихідні 
           p Такий графік роботи нашого секонд хенду підібрано згідно побажань наших кліентів та є найбільш зручним для більшості населення Соц міста Кам'янського
-    b-card(img-src="static/img/brand/1.jpg" img-alt="Card image" img-right).mt-3
+    b-card(img-src="static/img/brand/2.jpg" img-alt="Card image" img-right).mt-3
         b-card-text
           h1 Чому купувати у нас зручно?
           span Ну по перше у нас зовсiм не пахне секодн хендом :-). Ми постiйно робимо вологе прибирання, у нас гарна вентиляцiя i ми користуємося освіжувачами повітря
@@ -39,7 +39,7 @@
             li У магазині є дві зручні роздягальні з зеркалами та гарними пуфами 
             li У нашому магазині секонд хенду є термінал - це дуже зручний спосіб розрахунку Вашою улюбленою картою - Visa, Master Card, Goole Pay
             li Ми користуємося зареєстрованим РРО! Видаємо покупцю офіційні фіскальні чеки що є запарукою фінансової безпеки покупця
-    b-card(img-src="static/img/brand/1.jpg" img-alt="Card image" img-left).mt-3
+    b-card(img-src="static/img/brand/3.jpg" img-alt="Card image" img-left).mt-3
         b-card-text
           h1 Онлайн сервіси для секонд хенду -щось нове?
           span Ні - увесь світ зараз переходить на массове використання онлайн помічників, які економлять Ваш час та грощі
@@ -70,3 +70,4 @@ export default {
   }
 }
 </script>
+
